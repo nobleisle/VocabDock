@@ -1,0 +1,10 @@
+__note/
+
+# macOS
+.DS_Store
+
+# Xcode user/build artifacts
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xcuserdatad/
